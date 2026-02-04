@@ -7,7 +7,20 @@ NIM: 312410372
 # Sistem Informasi Perpustakaan Berbasis Web
 
 Aplikasi Sistem Informasi Perpustakaan Berbasis Web ini dikembangkan untuk membantu pengelolaan data buku, anggota, serta transaksi peminjaman dan pengembalian buku secara terintegrasi.
-Sistem dibangun menggunakan arsitektur Model–View–Controller (MVC) agar struktur kode lebih terorganisir, terukur, dan mudah dikembangkan.
+Sistem dibangun menggunakan arsitektur Model–View–Controller (MVC) agar struktur kode lebih terorganisir, terukur, dan mudah dikembangkan. 
+
+```
+Sandi Admin
+email:adminperpus@gmail.com
+password:admin123456
+```
+
+```
+Sandi User (Test)
+email:anggota1@gmail.com
+password:anggota1
+```
+
 
 # Fitur Utama 
 
